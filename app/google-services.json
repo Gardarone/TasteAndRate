@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657546158126",
+    "firebase_url": "https://tasteandrate-d4d77.firebaseio.com",
+    "project_id": "tasteandrate-d4d77",
+    "storage_bucket": "tasteandrate-d4d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657546158126:android:01273bcb81f08a7f66bfbf",
+        "android_client_info": {
+          "package_name": "com.example.tasteandrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657546158126-053884s65kh4gkc7ohl4jfkc2oo6qq6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasteandrate",
+            "certificate_hash": "701d731c49befc2f68dcec2a53b9b1f9ccf4a58e"
+          }
+        },
+        {
+          "client_id": "657546158126-i8ka85cm7aibjbfv7dq3nhaqg69qp387.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCToRzsuw0-_T2Pmm_dw_7KIIezzuxsjRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657546158126-i8ka85cm7aibjbfv7dq3nhaqg69qp387.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
